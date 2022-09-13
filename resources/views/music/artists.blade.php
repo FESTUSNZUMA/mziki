@@ -21,5 +21,6 @@
 		@endforeach
 </div>	
 </div>
+@extends("navbar.nowPlayingBar")
 
 @endsection("content")

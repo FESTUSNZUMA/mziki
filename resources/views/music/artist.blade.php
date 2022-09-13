@@ -62,5 +62,6 @@
 		setTrack()
 	}
 </script>
+@extends("navbar.nowPlayingBar")
 
 @endsection("content")
